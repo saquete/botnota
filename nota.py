@@ -1,14 +1,6 @@
 
-from decimal import DivisionByZero
-from lib2to3.pgen2 import driver
-from msilib.schema import tables
-from select import select
-from tkinter import Button
-from tkinter.tix import DirSelectBox
-from xml.dom.minidom import Element
 from selenium import webdriver
 import pyautogui as pg
-
 from time import sleep
 from webbrowser import Chrome
 from selenium import webdriver
